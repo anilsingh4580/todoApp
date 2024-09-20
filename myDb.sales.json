@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64a1f6c8e74d4b5d1e000001"
+  },
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "store": "Store A",
+  "items": [
+    {
+      "name": "item1",
+      "quantity": 5,
+      "price": 10
+    },
+    {
+      "name": "item2",
+      "quantity": 3,
+      "price": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a1f6c8e74d4b5d1e000002"
+  },
+  "date": {
+    "$date": "2024-06-20T00:00:00.000Z"
+  },
+  "store": "Store A",
+  "items": [
+    {
+      "name": "item3",
+      "quantity": 2,
+      "price": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a1f6c8e74d4b5d1e000003"
+  },
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "store": "Store B",
+  "items": [
+    {
+      "name": "item4",
+      "quantity": 4,
+      "price": 25
+    },
+    {
+      "name": "item5",
+      "quantity": 2,
+      "price": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a1f6c8e74d4b5d1e000004"
+  },
+  "date": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "store": "Store A",
+  "items": [
+    {
+      "name": "item1",
+      "quantity": 1,
+      "price": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a1f6c8e74d4b5d1e000005"
+  },
+  "date": {
+    "$date": "2024-07-02T00:00:00.000Z"
+  },
+  "store": "Store B",
+  "items": [
+    {
+      "name": "item6",
+      "quantity": 3,
+      "price": 30
+    }
+  ]
+}]
